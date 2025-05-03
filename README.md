@@ -1,4 +1,3 @@
-![Uploading Screenshot 2025-05-02 130133.png…]()
 # simple-todo-list-js
 A beginner-friendly to-do list web app built using HTML, CSS, and vanilla JavaScript to demonstrate DOM manipulation and event handling.
 
@@ -14,7 +13,6 @@ A beginner-friendly to-do list web app built using HTML, CSS, and vanilla JavaSc
 3. Delete Task: Each task includes a "Delete" button that removes the task when clicked.
 
 4. UI Update: The new task is added to the list, and the input field is cleared for the next entry.
-
 This demonstrates DOM manipulation, event handling, and dynamic element creation using vanilla JavaScript.
 
 The HTML file provides the layout for the to-do list app:
