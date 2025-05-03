@@ -1,6 +1,9 @@
 # simple-todo-list-js
 A beginner-friendly to-do list web app built using HTML, CSS, and vanilla JavaScript to demonstrate DOM manipulation and event handling.
 
+
+![To-Do List UI](images/todo-ui.png)
+
  The JavaScript logic handles task creation and deletion:
 
 1. Element Selection: It selects the input field, button, and task list using getElementById.
@@ -15,6 +18,9 @@ A beginner-friendly to-do list web app built using HTML, CSS, and vanilla JavaSc
 4. UI Update: The new task is added to the list, and the input field is cleared for the next entry.
 This demonstrates DOM manipulation, event handling, and dynamic element creation using vanilla JavaScript.
 
+![JavaScript Code](images/js-code.png)
+
+
 The HTML file provides the layout for the to-do list app:
 
 <input>: Where users type in their tasks.
@@ -23,3 +29,5 @@ The HTML file provides the layout for the to-do list app:
   Inline <style>: Adds basic spacing and visual layout.
   <script src="script.js">: Links the JavaScript functionality.
 This simple structure forms the foundation of the interactive to-do list and helps demonstrate how HTML works alongside JavaScript to build web apps.
+
+![HTML Code](images/html-code.png)
